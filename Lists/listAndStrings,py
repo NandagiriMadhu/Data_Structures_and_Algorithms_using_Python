@@ -1,9 +1,0 @@
-a = 'Nanda'
-b = list(a)
-print(b)
-
-c = 'Nanda-Madhu-Maddy'
-delimeter = '-'
-d = c.split(delimeter)
-print(d)
-print(delimeter.join(d))
